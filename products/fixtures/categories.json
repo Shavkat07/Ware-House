@@ -1,0 +1,154 @@
+[
+  {
+    "model": "products.category",
+    "pk": 1,
+    "fields": {
+      "parent": null,
+      "name": "Мобильные телефоны и аксессуары"
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 2,
+    "fields": {
+      "parent": null,
+      "name": "Компьютеры и офис"
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 3,
+    "fields": {
+      "parent": null,
+      "name": "Электроника"
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 4,
+    "fields": {
+      "parent": null,
+      "name": "Бытовая техника"
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 5,
+    "fields": {
+      "parent": null,
+      "name": "Безопасность и защита"
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 6,
+    "fields": {
+      "parent": null,
+      "name": "Строительство и ремонт"
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 7,
+    "fields": {
+      "parent": null,
+      "name": "Освещение"
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 8,
+    "fields": {
+      "parent": null,
+      "name": "Дом и сад"
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 9,
+    "fields": {
+      "parent": null,
+      "name": "Инструменты"
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 10,
+    "fields": {
+      "parent": null,
+      "name": "Автомобили и мотоциклы"
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 11,
+    "fields": {
+      "parent": null,
+      "name": "Канцтовары для офиса и дома"
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 12,
+    "fields": {
+      "parent": null,
+      "name": "Мебель"
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 13,
+    "fields": {
+      "parent": null,
+      "name": "Мужская одежда"
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 14,
+    "fields": {
+      "parent": null,
+      "name": "Женская одежда"
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 15,
+    "fields": {
+      "parent": null,
+      "name": "Обувь"
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 16,
+    "fields": {
+      "parent": null,
+      "name": "Наручные часы"
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 17,
+    "fields": {
+      "parent": null,
+      "name": "Багаж и сумки"
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 18,
+    "fields": {
+      "parent": null,
+      "name": "Спорт и развлечения"
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 19,
+    "fields": {
+      "parent": null,
+      "name": "Игрушки и хобби"
+    }
+  }
+]
